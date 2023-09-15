@@ -28,7 +28,7 @@ To run the Smart-Sprouts Proteus simulation, follow these steps:
 
 2. Clone the Repository: Clone this repository to your local machine using the command:
    ```
-   git clone https://github.com/Kaleab-Kinfe/Smart-Sprouts.git
+   git clone https://github.com/KKinfe/Smart-Sprouts.git
    ```
 
 3. Open the Simulation: Launch Proteus and navigate to the location where you cloned the repository. Open the Smart-Sprouts simulation file (`smart_sprouts.pdsprj`).
